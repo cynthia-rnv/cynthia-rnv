@@ -1,27 +1,49 @@
-# 👋 Hi, I'm Cynthia
-### Student - Python Developer - Future Computer Engineer
----
-## About Me
-High student from Madagascar interested in Computer Engineering, AI, Cybersecurity, Mathematics adn Neuroscience. I love learning not studying and understand the "WHY" before the "HOW" while learning.
+# Hi, I'm Cynthia
+
+**High school student from Madagascar | Aspiring Computer Engineer**
+
+I'm currently learning **Python** and exploring **web development** and **computer science**.
+
+I enjoy understanding how things work, especially through **mathematics, programming, and problem-solving**.
+
+## Interests
+
+- Computer Engineering
+- Artificial Intelligence
+- Cybersecurity
+- Mathematics
+- Neuroscience
 
 ## Skills
-- **Python**
-- **HTML**
-- **CSS**
-- **Flask**
-- **Matplotlib**
 
-<!--
-**cynthia-rnv/cynthia-rnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** Python, HTML, CSS
+- **Frameworks:** Flask
+- **Libraries:** Matplotlib
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Money Manager
+
+A personal finance web application built with **Python and Flask**.
+
+Features include:
+- Income and expense tracking
+- Transaction history
+- Balance calculation
+- Statistics and data visualization
+- English and French interface
+
+### Quiz Game
+
+My first Python project, built while learning the fundamentals of Python.
+
+## Currently Learning
+
+- Python
+- Web development
+- CSS
+- Flask
+- Computer science fundamentals
+
+> I care more about understanding **why** something works than simply knowing **how** to use it.
+
