@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Cynthia
+### Student - Python Developer - Future Computer Engineer
+---
+## About Me
+High student from Madagascar interested in Computer Engineering, AI, Cybersecurity, Mathematics adn Neuroscience. I love learning not studying and understand the "WHY" before the "HOW" while learning.
+
+## Skills
+- **Python**
+- **HTML**
+- **CSS**
+- **Flask**
+- **Matplotlib**
 
 <!--
 **cynthia-rnv/cynthia-rnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
